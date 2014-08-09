@@ -3,7 +3,7 @@ Android_kernel_mt6589 Manifest
 
 A manifest for building kernel for MT6589 platform
 
-repo init -u https://github.com/Dr-Shadow/android_kernel_mt6589_manifest.git -b master
+repo init -u https://github.com/GoCleverInsignia5/android_kernel_mt6589_manifest.git -b master
 
 Master branch can be replaced by some others :
 	master will set kernel to branch master		       -> 3.4.5 for Goclever Insignia 5 [WIP]
